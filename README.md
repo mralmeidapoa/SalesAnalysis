@@ -1,4 +1,4 @@
-# PortalApp
+# SalesAnalysis
 
 -------
 <p align="center">
@@ -10,8 +10,8 @@
 
 ## Motivation
 
-This App was developed with the aim of improve my skills in Data Engineering, Front-End, Back-End using:
-Python v3.7.3 (libs: os, glob, time)
+This App was developed with the aim of improve my skills in Python.
+Python v3.7 (libs: os, glob, time)
 
 The intention is to process Sales Data to create a Sales Analysis based using an archive with below layout:
 
